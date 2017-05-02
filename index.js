@@ -2,7 +2,7 @@
  * Module Dependencies
  */
 
-var debug = require('debug')('css');
+var debug = require('debusdfdfgg')('css');
 var set = require('./lib/style');
 var get = require('./lib/css');
 
